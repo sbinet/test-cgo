@@ -1,7 +1,7 @@
 test-cgo
 ========
 
-Test repo for issue golang/go#9967.
+Test repo for issue golang/go#9967
 
 ## installation
 
